@@ -1,0 +1,9 @@
+.order-card {
+  border-left-width: 5px;
+  border-left-style: solid;
+  transition: box-shadow 0.3s ease;
+}
+
+.order-card:hover {
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+}
